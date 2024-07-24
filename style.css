@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'roboto';
+  background: #000000;
+}
+
+.bg-white {
+  background: #D4D4D2;
+  color: #1C1C1C;
+}
+
+.bg-yellow {
+  background: #FF9500;
+  color: white;
+}
+
+.bg-grey {
+  background: #505050;
+  color: white;
+}
+
+.button {
+
+  margin: 0 3px;
+  font-size: 22px;
+  width: 60px;
+  height: 60px;
+
+
+  border: 1px solid #000000;
+  border-radius: 50%;
+  /* To make the button circular */
+
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.button.button:hover {
+  background: #d3d373
+}
+
+
+.row {
+  margin: 8px 0px;
+}
+
+.row input {
+  font-size: 22px;
+  padding: 10px 0px;
+  margin: 0;
+}
+
+/* Assuming you have a button with the class "calculator-button" for the '0' button */
+.
+/* Add any additional styles for the active state, e.g., box-shadow or scale */
+
+
+
+.good {
+  font-size: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: #f0f0f0;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  /* To make the button circular */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  user-select: none;
+}

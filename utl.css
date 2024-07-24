@@ -1,0 +1,33 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-red {
+  background: black;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+
+
+.input {
+  background: black;
+  color: white;
+  text-align: right;
+  border: 1px solid black;
+  
+}
